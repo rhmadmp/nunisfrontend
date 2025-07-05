@@ -25,8 +25,8 @@
 //   }
 // }
 
-const api_url = "http://10.10.10.15:8000/api";
-// const api_url = "https://powerful-communication-production.up.railway.app/api";
+// const api_url = "http://10.10.10.15:8000/api";
+const api_url = "https://powerful-communication-production.up.railway.app/api";
 // export const api_url = decryptText(api_base_url);
 
 export const API_ENDPOINTS = {
